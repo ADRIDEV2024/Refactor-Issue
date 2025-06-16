@@ -1,3 +1,2 @@
 # Refactor-Issue
 
-Revisión finalizada 
